@@ -99,7 +99,7 @@ export default function WithAction() {
           <HStack spacing={8} alignItems={"center"}>
             <Box>
               <Text fontWeight="bold" fontSize="1.3rem">
-                IITBHU CabSharing
+                College Cabs
               </Text>
             </Box>
             {isLoggedIn ? (
